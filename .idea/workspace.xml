@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2d21d99-67db-43d0-a898-05cf7a094df5" name="Changes" comment="" />
+    <list default="true" id="c2d21d99-67db-43d0-a898-05cf7a094df5" name="Changes" comment="init spring boot project">
+      <change afterPath="$PROJECT_DIR$/src/main/java/hello/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +78,18 @@
       <option name="presentableId" value="Default" />
       <updated>1679920602427</updated>
     </task>
+    <task id="LOCAL-00001" summary="init spring boot project">
+      <created>1680086586399</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680086586399</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init spring boot project" />
+    <option name="LAST_COMMIT_MESSAGE" value="init spring boot project" />
   </component>
 </project>
